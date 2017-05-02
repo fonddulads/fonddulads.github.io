@@ -1,0 +1,51 @@
+h1, h2{
+  color:purple;
+  text-align:center;
+  text-decoration:underline;
+}
+body{
+  background-color:black;
+  padding:10px;
+  background-image:url("http://www.fg-a.com/wallpapers/black-background-geometric-shapes.jpg");
+}
+.Content{
+  width:95%;
+  height:900px;
+  margin:30px auto 30px auto;
+  background-color:white;
+  border-radius:20px;
+  padding:20px;
+}
+p{
+  text-indent:90px;
+  font-size:25px;
+}
+a{
+  vertical-align:bottom;
+}
+li{
+  font-size:25px;
+}
+ul{
+  display:inline-block;
+}
+.top:hover{
+  background-color:purple;
+}
+.bar{
+text-align:center;
+}
+li.top{
+    display:inline-block;
+    border:5px outset white;
+    padding:5px;
+    background-color:white;
+    }
+    a.top:link{
+      text-decoration:none;
+      color:black;
+    }
+    a.top:visited{
+      color:black;
+      text-decoration:none;
+    }
